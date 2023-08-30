@@ -1,5 +1,5 @@
 nav:
-- section: "Get Started"
+- section: "Get Started" (demo: adding a sentence in section for pull request)
   items:
   - title: "Supported Platforms"
     url: "/platforms.html"
